@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Lulalá - Caminho da Estrela",
+  "short_name": "Lulalá",
+  "description": "Jogo retrô de plataforma 2D baseado na trajetória de Lula presidente, com poder de voo, discursos populares, fases históricas e trilha chiptune.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d19",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

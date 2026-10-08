@@ -1,0 +1,8 @@
+{
+  "name": "Lulalá - Caminho da Estrela",
+  "description": "Jogo retrô 2D celebrando os grandes feitos históricos de Lula: a criação do Bolsa Família, a retirada do Brasil do Mapa da Fome da ONU, a democratização do ensino superior com Prouni e Reuni, a transposição do Rio São Francisco, o programa Minha Casa Minha Vida, a autossuficiência com o Pré-Sal e a defesa das florestas com os mods Heroicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
